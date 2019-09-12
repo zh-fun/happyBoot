@@ -1,0 +1,8 @@
+rootProject.name = 'entity'
+include 'happyBoot-entity'
+include 'happyBoot-service'
+include 'happyBoot-api'
+include 'happyBoot-api'
+include 'happyBoot-dao'
+include 'happyBoot-web'
+
